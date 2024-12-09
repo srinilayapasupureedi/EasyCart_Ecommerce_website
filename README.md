@@ -11,11 +11,8 @@ Welcome to **EasyCart** — an elegant and responsive e-commerce website built w
 - **🏡 Footer**: Informative footer with links and contact details.
 - **📊 Responsive Design**: Optimized for devices of all screen sizes, ensuring a seamless experience across smartphones, tablets, and desktops.
 
-## 🗃 Preview
+![image](https://github.com/user-attachments/assets/24582ef4-1740-474b-b0a8-56beef873269)
 
-Take a look at EasyCart in action:
-
-![EasyCart Preview](https://via.placeholder.com/800x400.png?text=EasyCart+Preview)
 
 ## 📝 Project Structure
 
